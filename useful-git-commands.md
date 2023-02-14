@@ -24,4 +24,6 @@ Making a change #1 to practice committing
 
 Making a change #2 for practice committing 
 
-Making a change #2 for practice committing
+Making a change #3 for practice committing
+
+Making a change #4 for practice committing
