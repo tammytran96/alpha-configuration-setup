@@ -20,4 +20,6 @@
 - diff - the difference between states of your local and GitHub repository
 
 
-Making a change #1 to practice commiting
+Making a change #1 to practice committing
+
+Making a change #2 for practice committing 
