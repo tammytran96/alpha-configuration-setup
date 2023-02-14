@@ -41,3 +41,9 @@
 - git checkout -b - creates a new branch that doesn't currently exist
 - git branch -d branch-name - deletes the branch
 - deleting a branch - has to be deleted on local and on GitHub
+
+### Branching Commands
+- $ `git checkout -b branch-name` - creates a new branch that doesn't exist
+- $ `git branch` - lists all the current branches on your local
+- $ `git branch -d branch-name` - deletes a branch when you're done
+- $ `git checkout main` - navigates back to the main branch
