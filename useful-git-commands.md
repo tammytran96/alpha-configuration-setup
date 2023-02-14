@@ -27,3 +27,11 @@ Making a change #2 for practice committing
 Making a change #3 for practice committing
 
 Making a change #4 for practice committing
+
+### Git Process Notes
+- create a new repo on GitHub
+- clone the repo to your local
+- add a new file
+- add code to the file and save
+- use git status to see where you are in the process
+- add, commit, push code to GitHub
