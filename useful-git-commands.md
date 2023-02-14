@@ -33,3 +33,11 @@
 - Branching allows multiple people to work on code at the same time
 - Branching is a best practice for all developers on all projects
 - The main branch is the source of truth and should only ever have working code
+
+### Branching Vocabulary
+- branch - an alternative timeline where a developer can code safely
+- main - the branch that is the source of truth, only working code allowed
+- git checkout - command to navigate between branches
+- git checkout -b - creates a new branch that doesn't currently exist
+- git branch -d branch-name - deletes the branch
+- deleting a branch - has to be deleted on local and on GitHub
