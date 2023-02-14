@@ -27,3 +27,9 @@
 - add code to the file and save
 - use git status to see where you are in the process
 - add, commit, push code to GitHub
+
+### Notes about Branching
+- Branching protects your code from errors that can cause your app to be down in production
+- Branching allows multiple people to work on code at the same time
+- Branching is a best practice for all developers on all projects
+- The main branch is the source of truth and should only ever have working code
